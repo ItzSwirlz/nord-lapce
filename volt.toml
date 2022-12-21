@@ -1,0 +1,7 @@
+name = "nord-theme"
+display-name = "Nord Theme"
+description = "An arctic, north-bluish color palette."
+version = "0.1.0"
+author = "ItzSwirlz"
+repository = "https://github.com/arcticicestudio/nord"
+color-themes = ["nord.toml"]

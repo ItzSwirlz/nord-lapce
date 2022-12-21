@@ -1,0 +1,80 @@
+# Nord theme, by https://github.com/arcticicestudio/ (repo: https://github.com/arcticicestudio/nord)
+# Based off of VS Code theme: https://github.com/arcticicestudio/nord-visual-studio-code/blob/develop/themes/nord-color-theme.json
+# Ported by Joshua Peisach
+[color-theme]
+name = "Nord"
+
+[color-theme.base]
+black = "#2e3440"
+red = "#bf616a"
+orange = "#d08770"
+yellow = "#ebcb8b"
+green = "#a3be8c"
+purple = "#b48ead"
+blue = "#81A1C1"
+white = "#E5E9F0"
+
+[color-theme.syntax]
+comment = "#616E88"
+constant = "#D8DEE9"
+type = "#8FBCBB"
+typeAlias = "#8FBCBB"
+number = "$purple"
+attribute = "#8FBCBB"
+constructor = "#88C0D0"
+function = "#88C0D0"
+keyword = "$blue"
+selfKeyword = "$blue"
+string = "$green"
+"type.builtin" = "$blue"
+builtinType = "$blue"
+"string.escape" = "$orange"
+variable = "#D8DEE9"
+tag = "$blue"
+operator = "$blue"
+property = "$blue"
+class = "#8FBCBB"
+
+[color-theme.ui]
+"lapce.error" = "$red"
+"lapce.warning" = "$yellow"
+"lapce.border" = "#3b4252"
+"lapce.scroll_bar" = "#434c5eaa"
+
+"lapce.button.primary.background" = "#88c0d0ee"
+"lapce.button.primary.foreground" = "$black"
+
+"lapce.tab.active.background" = "#3b4252"
+"lapce.tab.active.foreground" = "#d8dee9"
+
+"lapce.tab.inactive.background" = "$black"
+"lapce.tab.inactive.foreground" = "#d8dee966"
+
+"lapce.tab.separator" = "#3b425200"
+
+"activity.background" = "$black"
+"activity.foreground" = "#d8dee9"
+
+"editor.background" = "$black"
+"editor.foreground" = "#D8DEE9"
+"editor.selection" = "#434c5ecc"
+"editor.current_line" = "#3b4252"
+"editor.link" = "#88c0d0"
+"editor.visible_whitespace" = "#4c566ab3"
+"editor.indent_guide" = "#434c5eb3"
+
+"panel.background" = "$black"
+"panel.foreground" = "#d8dee9"
+"panel.current.foreground" = "#88c0d0"
+
+"markdown.blockquote" = "#3b4252"
+
+"status.background" = "#3b4252"
+"status.foreground" = "#d8dee9"
+
+"inlay_hint.background" = "#434c5e"
+"inlay_hint.foreground" = "#d8dee9"
+
+"source_control.added" = "$green"
+"source_control.removed" = "$red"
+"source_control.modified" = "$yellow"
