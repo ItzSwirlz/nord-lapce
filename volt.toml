@@ -1,7 +1,8 @@
 name = "nord-theme"
 display-name = "Nord Theme"
 description = "An arctic, north-bluish color palette."
+icon = "icon.png"
 version = "0.1.1"
 author = "ItzSwirlz"
-repository = "https://github.com/arcticicestudio/nord"
+repository = "https://github.com/ItzSwirlz/nord-lapce"
 color-themes = ["nord.toml"]
